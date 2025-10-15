@@ -1,9 +1,3 @@
-Here’s your **Performance Analysis Report** perfectly formatted for a **GitHub README.md** — clean, structured, and Markdown-optimized (with headings, tables, and code-like formatting for clarity).
-
-You can copy and paste this directly into your `README.md` file 👇
-
----
-
 # 🧠 Performance Analysis Report: Multithreaded Searching and Sorting Algorithms
 
 ## 📌 1. Objective
