@@ -137,6 +137,6 @@ The effectiveness of **multithreading in Python** for CPU-bound tasks depends on
 
 > ⚠️ For smaller datasets or simple sequential algorithms, **single-threaded implementations remain more efficient** due to reduced overhead and GIL constraints.
 
----
 
-Would you like me to make this GitHub-ready with Markdown table alignment and emoji styling in a downloadable `.md` file?
+
+
